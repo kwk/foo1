@@ -25,3 +25,6 @@ public class BoosterApplication {
         SpringApplication.run(BoosterApplication.class, args);
     }
 }
+
+
+
